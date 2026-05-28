@@ -46,6 +46,64 @@ and ( Trend over time ) of all the metrices  To know Our  services Performance  
     - Average OT Delivery % is 59%
     - Average IF Delivery % is 66%
     - Averagea OTIF delivery % is 48%
+    - Average LIFR%/Orders is 86.5%
+    - Average VIFR%/Orders is 96.5%
     - Total Orders are 31.2k Orders
     - Total 15 Customers peresent in 3 different Cities
-      
+ 
+***
+
+📈 Dashboard Features
+---
+
+- KPI visuals (AVg OT% and  vs Target) ,(AVg IF%  and vs Target) , (AVg OTIF%  and vs Target) , Average LIFR% , AVG VIFR%
+- Customer Level Performance In Matix Visual
+- Product Level performance In Matrix Visual
+- City Level Performance Using Bar charts
+- Monthly Trends and Target Achievement View
+- Delivery Performance View using Bar charts
+- Filters like Product Level, City Level , Month level ,
+
+***
+
+🛠️ Tools & Technologies
+---
+- Power BI for Dashboarding
+- Power query For Data Cleaning and Transformation (used some M Language for transformation as well)
+- DAX ( optimized Dax for better performace )
+- Proper Data modeling with right Relaltionships
+
+***
+
+📂 Files Included
+---
+- Insights_to_Solve_supplychain_issues Dashboard.Pbix -> Main Bi File
+- Dim_customer.CSV
+- Dim_Product.CSV
+- Dim_Date.CSV
+- Fact_Order_target.CSV
+- FAct_Order_Lines.CSV
+- Column Discription.Text
+- Dashboard_Preview.Png
+- Data_model_view.Png
+- Power_query_Transformation_Steps.Text
+
+
+***
+📈 Business Value
+---
+This Dahsboards helps in :-
+-- understanding the root causes of our ongoing Bad services  and distribution of Causes Across Customers and Products
+-- Proper service management
+-- Over time Performances Across Months and Weeks
+
+*** 
+📸 Dashboard Preview
+---
+
+<img width="1471" height="782" alt="image" src="https://github.com/user-attachments/assets/b727d42b-4e22-4fc9-939e-7e640b3b527d" />
+
+  
+
+  
+          
