@@ -93,9 +93,10 @@ and ( Trend over time ) of all the metrices  To know Our  services Performance  
 📈 Business Value
 ---
 This Dahsboards helps in :-
--- understanding the root causes of our ongoing Bad services  and distribution of Causes Across Customers and Products
--- Proper service management
--- Over time Performances Across Months and Weeks
+
+- understanding the root causes of our ongoing Bad services  and distribution of Causes Across Customers and Products
+- Proper service management
+- Over time Performances Across Months and Weeks
 
 *** 
 📸 Dashboard Preview
