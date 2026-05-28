@@ -26,5 +26,7 @@ and ( Trend over time ) of all the metrices  To know Our  services Performance  
 ---
 - No Any cities have achieved their Targets value  in terms of OT, IN ,OTIN %
 - ALL cities are behind thier OT% target by (20%) on an average , IF% by 10% and OTIF% by 15% on an average  
-- every Customer achieved their OT% Target Value but Only (1 Customer) was behind its IF% Target value which was "Elite Mart"
-  and there Were  (5 Customers ) who were left behind thier IFOT% value 
+- Every Customers have failed to Achieve their Targer% in Terms of OT , IF OTIF%
+   . OT% = > (25%) of Customer were left behind their target by (45%) on an  Average , (35%) of Customers were left behingd by close to (20%) and  Rest of them were behing by ( 1 to 17% )
+   . IF% = > (21% of custoomers were  behing their target% by 35% on an average and Rest of 79% were less then (10%)
+   . OTIF% => (37% of customers were behing there target% by 40% on an Average and rest of 63% were less then (15%)
