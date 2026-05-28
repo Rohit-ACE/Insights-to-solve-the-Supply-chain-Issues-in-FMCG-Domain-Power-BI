@@ -30,3 +30,7 @@ and ( Trend over time ) of all the metrices  To know Our  services Performance  
    - OT% = > (25%) of Customer were left behind their target by (45%) on an  Average , (35%) of Customers were left behingd by close to (20%) and  Rest of them were behing by ( 1 to 17% )
    - IF% = > (21% of custoomers were  behing their target% by 35% on an average and Rest of 79% were less then (10%)
    - OTIF% => (37% of customers were behing there target% by 40% on an Average and rest of 63% were less then (15%)
+- we have never Achieved our Monthly  Target% Againts OT, IF , OTIF% 
+     - gone close to  OT Target%  1 month only
+     -  gone close to IF% Target% 2 months only
+     -  Gone close to OTIF% Target% 1 month only
