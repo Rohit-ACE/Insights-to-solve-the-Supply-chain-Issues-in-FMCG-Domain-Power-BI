@@ -25,12 +25,27 @@ and ( Trend over time ) of all the metrices  To know Our  services Performance  
 📌 Key Insights
 ---
 - No Any cities have achieved their Targets value  in terms of OT, IN ,OTIN %
-- ALL cities are behind thier OT% target by (20%) on an average , IF% by 10% and OTIF% by 15% on an average  
-- Every Customers have failed to Achieve their Targer% in Terms of OT , IF OTIF%
+  
+- ALL cities are behind thier OT% target by (20%) on an average , IF% by 10% and OTIF% by 15% on an average
+
+- Every Customer has failed to Achieve their Target% in Terms of OT , IF And OTIF%
+
    - OT% = > (25%) of Customer were left behind their target by (45%) on an  Average , (35%) of Customers were left behingd by close to (20%) and  Rest of them were behing by ( 1 to 17% )
-   - IF% = > (21% of custoomers were  behing their target% by 35% on an average and Rest of 79% were less then (10%)
-   - OTIF% => (37% of customers were behing there target% by 40% on an Average and rest of 63% were less then (15%)
+   - IF% = > (21% of customers were  behind their target% by 35% on an average and Rest of 79% were less then (10%)
+   - OTIF% => (37% of customers were behind their target% by 40% on an Average and rest of 63% were less then (15%)
+   - only 1 customer was able to cross its only IF Target% onlY 1.23% Extra
+     
 - we have never Achieved our Monthly  Target% Againts OT, IF , OTIF% 
      - gone close to  OT Target%  1 month only
      -  gone close to IF% Target% 2 months only
      -  Gone close to OTIF% Target% 1 month only
+ 
+- ( 8%) of Orders took  3 Days to deliever and  (12%) of orders Took 2 days to Deliever and rest of them were same day , before time and 1 day delivery
+  
+- KPI Insights
+    - Average OT Delivery % is 59%
+    - Average IF Delivery % is 66%
+    - Averagea OTIF delivery % is 48%
+    - Total Orders are 31.2k Orders
+    - Total 15 Customers peresent in 3 different Cities
+      
