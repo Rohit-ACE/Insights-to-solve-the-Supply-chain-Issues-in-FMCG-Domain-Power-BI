@@ -83,10 +83,10 @@ and ( Trend over time ) of all the metrices  To know Our  services Performance  
 - Dim_Date.CSV
 - Fact_Order_target.CSV
 - FAct_Order_Lines.CSV
-- Column Discription.Text
+- Column Discription.txt
 - Dashboard_Preview.Png
 - Data_model_view.Png
-- Power_query_Transformation_Steps.Text
+- Power_query_Transformation_Steps.txt
 
 
 ***
